@@ -1,0 +1,12 @@
+## Dataset
+
+This project uses the **Crime Data from 2020 to Present** dataset
+(public dataset).
+
+Due to size constraints, the dataset is **not included** in this repository.
+
+Expected file:
+- `Crime_Data_from_2020_to_Present.csv`
+
+The dataset can be obtained from the official public source
+(e.g. Los Angeles Open Data portal).
