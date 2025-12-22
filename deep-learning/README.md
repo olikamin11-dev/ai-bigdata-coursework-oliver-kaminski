@@ -38,6 +38,9 @@ See `data/README.md` for details.
 - **Loss:** `categorical_crossentropy`
 - **Metric:** `accuracy`
 
+![Model Architecture](deep-learning/assets/model_architecture.jpg)
+
+
 (See the notebook for full implementation details and hyperparameters.)
 
 ---
