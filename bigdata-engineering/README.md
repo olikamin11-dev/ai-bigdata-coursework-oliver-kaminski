@@ -42,13 +42,20 @@ a climate alert monitoring scenario.
 ---
 
 ## Architecture Overview
-The solution follows a classic Big Data architecture:
+The solution follows a classic Big Data architecture composed of ingestion,
+storage, processing, and visualization layers.
 
+![System architecture](assets/architecture.png)
+
+
+**Main components:**
 1. **Data ingestion** using Apache NiFi
 2. **Distributed storage** in HDFS
 3. **Data modeling and querying** using Hive (via HUE)
 4. **Batch processing and transformations** with Apache Spark
 5. **Analytics and visualization** using Apache Superset
+
+
 
 ---
 
@@ -70,7 +77,9 @@ The solution follows a classic Big Data architecture:
 - Spark jobs perform analytical transformations and aggregations
 - Curated datasets are exposed to Superset for visualization
 
----
+![Apache NiFi pipeline](assets/nifi_pipeline.png)
+
+The resulting curated datasets are then exposed to the visualization layer.
 
 ## Dashboard
 The final output of the system is an **interactive dashboard**
@@ -79,7 +88,12 @@ designed for **end users**, allowing them to:
 - Analyze alert frequency and distribution
 - Explore climate-related trends interactively
 
+
+![Dashboard preview](assets/dashboard_preview.png)
+
 A PDF export of the final dashboard is available in the `dashboards/` folder.
+Additionally, Superset dashboard configuration files (`.yaml`) are included
+under `dashboards/superset_export/` for versioning and reproducibility.
 
 ---
 
