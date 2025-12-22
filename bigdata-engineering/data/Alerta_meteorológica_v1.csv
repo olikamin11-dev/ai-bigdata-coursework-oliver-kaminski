@@ -1,0 +1,1001 @@
+id_alerta_met,tipo_alerta,nivel_alerta
+1,Tornado,Bajo
+2,Tornado,Moderado
+3,Tornado,Alto
+4,Tornado,Extremo
+5,Huracán,Bajo
+6,Huracán,Moderado
+7,Huracán,Alto
+8,Huracán,Extremo
+9,Tormenta eléctrica,Bajo
+10,Tormenta eléctrica,Moderado
+11,Tormenta eléctrica,Alto
+12,Tormenta eléctrica,Extremo
+13,Tormenta de nieve,Bajo
+14,Tormenta de nieve,Moderado
+15,Tormenta de nieve,Alto
+16,Tormenta de nieve,Extremo
+17,Granizo,Bajo
+18,Granizo,Moderado
+19,Granizo,Alto
+20,Granizo,Extremo
+21,Alerta de viento fuerte,Bajo
+22,Alerta de viento fuerte,Moderado
+23,Alerta de viento fuerte,Alto
+24,Alerta de viento fuerte,Extremo
+25,Alerta de calor extremo,Bajo
+26,Alerta de calor extremo,Moderado
+27,Alerta de calor extremo,Alto
+28,Alerta de calor extremo,Extremo
+29,Alerta de frío extremo,Bajo
+30,Alerta de frío extremo,Moderado
+31,Alerta de frío extremo,Alto
+32,Alerta de frío extremo,Extremo
+33,Inundación,Bajo
+34,Inundación,Moderado
+35,Inundación,Alto
+36,Inundación,Extremo
+37,Alerta de lluvias intensas,Bajo
+38,Alerta de lluvias intensas,Moderado
+39,Alerta de lluvias intensas,Alto
+40,Alerta de lluvias intensas,Extremo
+41,Alerta de deslizamientos de tierra,Bajo
+42,Alerta de deslizamientos de tierra,Moderado
+43,Alerta de deslizamientos de tierra,Alto
+44,Alerta de deslizamientos de tierra,Extremo
+45,Alerta de tsunamis,Bajo
+46,Alerta de tsunamis,Moderado
+47,Alerta de tsunamis,Alto
+48,Alerta de tsunamis,Extremo
+49,Alerta de nevada,Bajo
+50,Alerta de nevada,Moderado
+51,Alerta de nevada,Alto
+52,Alerta de nevada,Extremo
+53,Alerta de sequía,Bajo
+54,Alerta de sequía,Moderado
+55,Alerta de sequía,Alto
+56,Alerta de sequía,Extremo
+57,Alerta de ciclón,Bajo
+58,Alerta de ciclón,Moderado
+59,Alerta de ciclón,Alto
+60,Alerta de ciclón,Extremo
+61,Alerta de niebla densa,Bajo
+62,Alerta de niebla densa,Moderado
+63,Alerta de niebla densa,Alto
+64,Alerta de niebla densa,Extremo
+65,Alerta de tormenta tropical,Bajo
+66,Alerta de tormenta tropical,Moderado
+67,Alerta de tormenta tropical,Alto
+68,Alerta de tormenta tropical,Extremo
+69,Alerta de tormentas severas,Bajo
+70,Alerta de tormentas severas,Moderado
+71,Alerta de tormentas severas,Alto
+72,Alerta de tormentas severas,Extremo
+73,Alerta de ráfagas de viento,Bajo
+74,Alerta de ráfagas de viento,Moderado
+75,Alerta de ráfagas de viento,Alto
+76,Alerta de ráfagas de viento,Extremo
+77,Alerta de polvo o tormentas de arena,Bajo
+78,Alerta de polvo o tormentas de arena,Moderado
+79,Alerta de polvo o tormentas de arena,Alto
+80,Alerta de polvo o tormentas de arena,Extremo
+81,Tornado,Bajo
+82,Tornado,Moderado
+83,Tornado,Alto
+84,Tornado,Extremo
+85,Huracán,Bajo
+86,Huracán,Moderado
+87,Huracán,Alto
+88,Huracán,Extremo
+89,Tormenta eléctrica,Bajo
+90,Tormenta eléctrica,Moderado
+91,Tormenta eléctrica,Alto
+92,Tormenta eléctrica,Extremo
+93,Tormenta de nieve,Bajo
+94,Tormenta de nieve,Moderado
+95,Tormenta de nieve,Alto
+96,Tormenta de nieve,Extremo
+97,Granizo,Bajo
+98,Granizo,Moderado
+99,Granizo,Alto
+100,Granizo,Extremo
+101,Alerta de viento fuerte,Bajo
+102,Alerta de viento fuerte,Moderado
+103,Alerta de viento fuerte,Alto
+104,Alerta de viento fuerte,Extremo
+105,Alerta de calor extremo,Bajo
+106,Alerta de calor extremo,Moderado
+107,Alerta de calor extremo,Alto
+108,Alerta de calor extremo,Extremo
+109,Alerta de frío extremo,Bajo
+110,Alerta de frío extremo,Moderado
+111,Alerta de frío extremo,Alto
+112,Alerta de frío extremo,Extremo
+113,Inundación,Bajo
+114,Inundación,Moderado
+115,Inundación,Alto
+116,Inundación,Extremo
+117,Alerta de lluvias intensas,Bajo
+118,Alerta de lluvias intensas,Moderado
+119,Alerta de lluvias intensas,Alto
+120,Alerta de lluvias intensas,Extremo
+121,Alerta de deslizamientos de tierra,Bajo
+122,Alerta de deslizamientos de tierra,Moderado
+123,Alerta de deslizamientos de tierra,Alto
+124,Alerta de deslizamientos de tierra,Extremo
+125,Alerta de tsunamis,Bajo
+126,Alerta de tsunamis,Moderado
+127,Alerta de tsunamis,Alto
+128,Alerta de tsunamis,Extremo
+129,Alerta de nevada,Bajo
+130,Alerta de nevada,Moderado
+131,Alerta de nevada,Alto
+132,Alerta de nevada,Extremo
+133,Alerta de sequía,Bajo
+134,Alerta de sequía,Moderado
+135,Alerta de sequía,Alto
+136,Alerta de sequía,Extremo
+137,Alerta de ciclón,Bajo
+138,Alerta de ciclón,Moderado
+139,Alerta de ciclón,Alto
+140,Alerta de ciclón,Extremo
+141,Alerta de niebla densa,Bajo
+142,Alerta de niebla densa,Moderado
+143,Alerta de niebla densa,Alto
+144,Alerta de niebla densa,Extremo
+145,Alerta de tormenta tropical,Bajo
+146,Alerta de tormenta tropical,Moderado
+147,Alerta de tormenta tropical,Alto
+148,Alerta de tormenta tropical,Extremo
+149,Alerta de tormentas severas,Bajo
+150,Alerta de tormentas severas,Moderado
+151,Alerta de tormentas severas,Alto
+152,Alerta de tormentas severas,Extremo
+153,Alerta de ráfagas de viento,Bajo
+154,Alerta de ráfagas de viento,Moderado
+155,Alerta de ráfagas de viento,Alto
+156,Alerta de ráfagas de viento,Extremo
+157,Alerta de polvo o tormentas de arena,Bajo
+158,Alerta de polvo o tormentas de arena,Moderado
+159,Alerta de polvo o tormentas de arena,Alto
+160,Alerta de polvo o tormentas de arena,Extremo
+161,Tornado,Bajo
+162,Tornado,Moderado
+163,Tornado,Alto
+164,Tornado,Extremo
+165,Huracán,Bajo
+166,Huracán,Moderado
+167,Huracán,Alto
+168,Huracán,Extremo
+169,Tormenta eléctrica,Bajo
+170,Tormenta eléctrica,Moderado
+171,Tormenta eléctrica,Alto
+172,Tormenta eléctrica,Extremo
+173,Tormenta de nieve,Bajo
+174,Tormenta de nieve,Moderado
+175,Tormenta de nieve,Alto
+176,Tormenta de nieve,Extremo
+177,Granizo,Bajo
+178,Granizo,Moderado
+179,Granizo,Alto
+180,Granizo,Extremo
+181,Alerta de viento fuerte,Bajo
+182,Alerta de viento fuerte,Moderado
+183,Alerta de viento fuerte,Alto
+184,Alerta de viento fuerte,Extremo
+185,Alerta de calor extremo,Bajo
+186,Alerta de calor extremo,Moderado
+187,Alerta de calor extremo,Alto
+188,Alerta de calor extremo,Extremo
+189,Alerta de frío extremo,Bajo
+190,Alerta de frío extremo,Moderado
+191,Alerta de frío extremo,Alto
+192,Alerta de frío extremo,Extremo
+193,Inundación,Bajo
+194,Inundación,Moderado
+195,Inundación,Alto
+196,Inundación,Extremo
+197,Alerta de lluvias intensas,Bajo
+198,Alerta de lluvias intensas,Moderado
+199,Alerta de lluvias intensas,Alto
+200,Alerta de lluvias intensas,Extremo
+201,Alerta de deslizamientos de tierra,Bajo
+202,Alerta de deslizamientos de tierra,Moderado
+203,Alerta de deslizamientos de tierra,Alto
+204,Alerta de deslizamientos de tierra,Extremo
+205,Alerta de tsunamis,Bajo
+206,Alerta de tsunamis,Moderado
+207,Alerta de tsunamis,Alto
+208,Alerta de tsunamis,Extremo
+209,Alerta de nevada,Bajo
+210,Alerta de nevada,Moderado
+211,Alerta de nevada,Alto
+212,Alerta de nevada,Extremo
+213,Alerta de sequía,Bajo
+214,Alerta de sequía,Moderado
+215,Alerta de sequía,Alto
+216,Alerta de sequía,Extremo
+217,Alerta de ciclón,Bajo
+218,Alerta de ciclón,Moderado
+219,Alerta de ciclón,Alto
+220,Alerta de ciclón,Extremo
+221,Alerta de niebla densa,Bajo
+222,Alerta de niebla densa,Moderado
+223,Alerta de niebla densa,Alto
+224,Alerta de niebla densa,Extremo
+225,Alerta de tormenta tropical,Bajo
+226,Alerta de tormenta tropical,Moderado
+227,Alerta de tormenta tropical,Alto
+228,Alerta de tormenta tropical,Extremo
+229,Alerta de tormentas severas,Bajo
+230,Alerta de tormentas severas,Moderado
+231,Alerta de tormentas severas,Alto
+232,Alerta de tormentas severas,Extremo
+233,Alerta de ráfagas de viento,Bajo
+234,Alerta de ráfagas de viento,Moderado
+235,Alerta de ráfagas de viento,Alto
+236,Alerta de ráfagas de viento,Extremo
+237,Alerta de polvo o tormentas de arena,Bajo
+238,Alerta de polvo o tormentas de arena,Moderado
+239,Alerta de polvo o tormentas de arena,Alto
+240,Alerta de polvo o tormentas de arena,Extremo
+241,Tornado,Bajo
+242,Tornado,Moderado
+243,Tornado,Alto
+244,Tornado,Extremo
+245,Huracán,Bajo
+246,Huracán,Moderado
+247,Huracán,Alto
+248,Huracán,Extremo
+249,Tormenta eléctrica,Bajo
+250,Tormenta eléctrica,Moderado
+251,Tormenta eléctrica,Alto
+252,Tormenta eléctrica,Extremo
+253,Tormenta de nieve,Bajo
+254,Tormenta de nieve,Moderado
+255,Tormenta de nieve,Alto
+256,Tormenta de nieve,Extremo
+257,Granizo,Bajo
+258,Granizo,Moderado
+259,Granizo,Alto
+260,Granizo,Extremo
+261,Alerta de viento fuerte,Bajo
+262,Alerta de viento fuerte,Moderado
+263,Alerta de viento fuerte,Alto
+264,Alerta de viento fuerte,Extremo
+265,Alerta de calor extremo,Bajo
+266,Alerta de calor extremo,Moderado
+267,Alerta de calor extremo,Alto
+268,Alerta de calor extremo,Extremo
+269,Alerta de frío extremo,Bajo
+270,Alerta de frío extremo,Moderado
+271,Alerta de frío extremo,Alto
+272,Alerta de frío extremo,Extremo
+273,Inundación,Bajo
+274,Inundación,Moderado
+275,Inundación,Alto
+276,Inundación,Extremo
+277,Alerta de lluvias intensas,Bajo
+278,Alerta de lluvias intensas,Moderado
+279,Alerta de lluvias intensas,Alto
+280,Alerta de lluvias intensas,Extremo
+281,Alerta de deslizamientos de tierra,Bajo
+282,Alerta de deslizamientos de tierra,Moderado
+283,Alerta de deslizamientos de tierra,Alto
+284,Alerta de deslizamientos de tierra,Extremo
+285,Alerta de tsunamis,Bajo
+286,Alerta de tsunamis,Moderado
+287,Alerta de tsunamis,Alto
+288,Alerta de tsunamis,Extremo
+289,Alerta de nevada,Bajo
+290,Alerta de nevada,Moderado
+291,Alerta de nevada,Alto
+292,Alerta de nevada,Extremo
+293,Alerta de sequía,Bajo
+294,Alerta de sequía,Moderado
+295,Alerta de sequía,Alto
+296,Alerta de sequía,Extremo
+297,Alerta de ciclón,Bajo
+298,Alerta de ciclón,Moderado
+299,Alerta de ciclón,Alto
+300,Alerta de ciclón,Extremo
+301,Alerta de niebla densa,Bajo
+302,Alerta de niebla densa,Moderado
+303,Alerta de niebla densa,Alto
+304,Alerta de niebla densa,Extremo
+305,Alerta de tormenta tropical,Bajo
+306,Alerta de tormenta tropical,Moderado
+307,Alerta de tormenta tropical,Alto
+308,Alerta de tormenta tropical,Extremo
+309,Alerta de tormentas severas,Bajo
+310,Alerta de tormentas severas,Moderado
+311,Alerta de tormentas severas,Alto
+312,Alerta de tormentas severas,Extremo
+313,Alerta de ráfagas de viento,Bajo
+314,Alerta de ráfagas de viento,Moderado
+315,Alerta de ráfagas de viento,Alto
+316,Alerta de ráfagas de viento,Extremo
+317,Alerta de polvo o tormentas de arena,Bajo
+318,Alerta de polvo o tormentas de arena,Moderado
+319,Alerta de polvo o tormentas de arena,Alto
+320,Alerta de polvo o tormentas de arena,Extremo
+321,Tornado,Bajo
+322,Tornado,Moderado
+323,Tornado,Alto
+324,Tornado,Extremo
+325,Huracán,Bajo
+326,Huracán,Moderado
+327,Huracán,Alto
+328,Huracán,Extremo
+329,Tormenta eléctrica,Bajo
+330,Tormenta eléctrica,Moderado
+331,Tormenta eléctrica,Alto
+332,Tormenta eléctrica,Extremo
+333,Tormenta de nieve,Bajo
+334,Tormenta de nieve,Moderado
+335,Tormenta de nieve,Alto
+336,Tormenta de nieve,Extremo
+337,Granizo,Bajo
+338,Granizo,Moderado
+339,Granizo,Alto
+340,Granizo,Extremo
+341,Alerta de viento fuerte,Bajo
+342,Alerta de viento fuerte,Moderado
+343,Alerta de viento fuerte,Alto
+344,Alerta de viento fuerte,Extremo
+345,Alerta de calor extremo,Bajo
+346,Alerta de calor extremo,Moderado
+347,Alerta de calor extremo,Alto
+348,Alerta de calor extremo,Extremo
+349,Alerta de frío extremo,Bajo
+350,Alerta de frío extremo,Moderado
+351,Alerta de frío extremo,Alto
+352,Alerta de frío extremo,Extremo
+353,Inundación,Bajo
+354,Inundación,Moderado
+355,Inundación,Alto
+356,Inundación,Extremo
+357,Alerta de lluvias intensas,Bajo
+358,Alerta de lluvias intensas,Moderado
+359,Alerta de lluvias intensas,Alto
+360,Alerta de lluvias intensas,Extremo
+361,Alerta de deslizamientos de tierra,Bajo
+362,Alerta de deslizamientos de tierra,Moderado
+363,Alerta de deslizamientos de tierra,Alto
+364,Alerta de deslizamientos de tierra,Extremo
+365,Alerta de tsunamis,Bajo
+366,Alerta de tsunamis,Moderado
+367,Alerta de tsunamis,Alto
+368,Alerta de tsunamis,Extremo
+369,Alerta de nevada,Bajo
+370,Alerta de nevada,Moderado
+371,Alerta de nevada,Alto
+372,Alerta de nevada,Extremo
+373,Alerta de sequía,Bajo
+374,Alerta de sequía,Moderado
+375,Alerta de sequía,Alto
+376,Alerta de sequía,Extremo
+377,Alerta de ciclón,Bajo
+378,Alerta de ciclón,Moderado
+379,Alerta de ciclón,Alto
+380,Alerta de ciclón,Extremo
+381,Alerta de niebla densa,Bajo
+382,Alerta de niebla densa,Moderado
+383,Alerta de niebla densa,Alto
+384,Alerta de niebla densa,Extremo
+385,Alerta de tormenta tropical,Bajo
+386,Alerta de tormenta tropical,Moderado
+387,Alerta de tormenta tropical,Alto
+388,Alerta de tormenta tropical,Extremo
+389,Alerta de tormentas severas,Bajo
+390,Alerta de tormentas severas,Moderado
+391,Alerta de tormentas severas,Alto
+392,Alerta de tormentas severas,Extremo
+393,Alerta de ráfagas de viento,Bajo
+394,Alerta de ráfagas de viento,Moderado
+395,Alerta de ráfagas de viento,Alto
+396,Alerta de ráfagas de viento,Extremo
+397,Alerta de polvo o tormentas de arena,Bajo
+398,Alerta de polvo o tormentas de arena,Moderado
+399,Alerta de polvo o tormentas de arena,Alto
+400,Alerta de polvo o tormentas de arena,Extremo
+401,Tornado,Bajo
+402,Tornado,Moderado
+403,Tornado,Alto
+404,Tornado,Extremo
+405,Huracán,Bajo
+406,Huracán,Moderado
+407,Huracán,Alto
+408,Huracán,Extremo
+409,Tormenta eléctrica,Bajo
+410,Tormenta eléctrica,Moderado
+411,Tormenta eléctrica,Alto
+412,Tormenta eléctrica,Extremo
+413,Tormenta de nieve,Bajo
+414,Tormenta de nieve,Moderado
+415,Tormenta de nieve,Alto
+416,Tormenta de nieve,Extremo
+417,Granizo,Bajo
+418,Granizo,Moderado
+419,Granizo,Alto
+420,Granizo,Extremo
+421,Alerta de viento fuerte,Bajo
+422,Alerta de viento fuerte,Moderado
+423,Alerta de viento fuerte,Alto
+424,Alerta de viento fuerte,Extremo
+425,Alerta de calor extremo,Bajo
+426,Alerta de calor extremo,Moderado
+427,Alerta de calor extremo,Alto
+428,Alerta de calor extremo,Extremo
+429,Alerta de frío extremo,Bajo
+430,Alerta de frío extremo,Moderado
+431,Alerta de frío extremo,Alto
+432,Alerta de frío extremo,Extremo
+433,Inundación,Bajo
+434,Inundación,Moderado
+435,Inundación,Alto
+436,Inundación,Extremo
+437,Alerta de lluvias intensas,Bajo
+438,Alerta de lluvias intensas,Moderado
+439,Alerta de lluvias intensas,Alto
+440,Alerta de lluvias intensas,Extremo
+441,Alerta de deslizamientos de tierra,Bajo
+442,Alerta de deslizamientos de tierra,Moderado
+443,Alerta de deslizamientos de tierra,Alto
+444,Alerta de deslizamientos de tierra,Extremo
+445,Alerta de tsunamis,Bajo
+446,Alerta de tsunamis,Moderado
+447,Alerta de tsunamis,Alto
+448,Alerta de tsunamis,Extremo
+449,Alerta de nevada,Bajo
+450,Alerta de nevada,Moderado
+451,Alerta de nevada,Alto
+452,Alerta de nevada,Extremo
+453,Alerta de sequía,Bajo
+454,Alerta de sequía,Moderado
+455,Alerta de sequía,Alto
+456,Alerta de sequía,Extremo
+457,Alerta de ciclón,Bajo
+458,Alerta de ciclón,Moderado
+459,Alerta de ciclón,Alto
+460,Alerta de ciclón,Extremo
+461,Alerta de niebla densa,Bajo
+462,Alerta de niebla densa,Moderado
+463,Alerta de niebla densa,Alto
+464,Alerta de niebla densa,Extremo
+465,Alerta de tormenta tropical,Bajo
+466,Alerta de tormenta tropical,Moderado
+467,Alerta de tormenta tropical,Alto
+468,Alerta de tormenta tropical,Extremo
+469,Alerta de tormentas severas,Bajo
+470,Alerta de tormentas severas,Moderado
+471,Alerta de tormentas severas,Alto
+472,Alerta de tormentas severas,Extremo
+473,Alerta de ráfagas de viento,Bajo
+474,Alerta de ráfagas de viento,Moderado
+475,Alerta de ráfagas de viento,Alto
+476,Alerta de ráfagas de viento,Extremo
+477,Alerta de polvo o tormentas de arena,Bajo
+478,Alerta de polvo o tormentas de arena,Moderado
+479,Alerta de polvo o tormentas de arena,Alto
+480,Alerta de polvo o tormentas de arena,Extremo
+481,Tornado,Bajo
+482,Tornado,Moderado
+483,Tornado,Alto
+484,Tornado,Extremo
+485,Huracán,Bajo
+486,Huracán,Moderado
+487,Huracán,Alto
+488,Huracán,Extremo
+489,Tormenta eléctrica,Bajo
+490,Tormenta eléctrica,Moderado
+491,Tormenta eléctrica,Alto
+492,Tormenta eléctrica,Extremo
+493,Tormenta de nieve,Bajo
+494,Tormenta de nieve,Moderado
+495,Tormenta de nieve,Alto
+496,Tormenta de nieve,Extremo
+497,Granizo,Bajo
+498,Granizo,Moderado
+499,Granizo,Alto
+500,Granizo,Extremo
+501,Alerta de viento fuerte,Bajo
+502,Alerta de viento fuerte,Moderado
+503,Alerta de viento fuerte,Alto
+504,Alerta de viento fuerte,Extremo
+505,Alerta de calor extremo,Bajo
+506,Alerta de calor extremo,Moderado
+507,Alerta de calor extremo,Alto
+508,Alerta de calor extremo,Extremo
+509,Alerta de frío extremo,Bajo
+510,Alerta de frío extremo,Moderado
+511,Alerta de frío extremo,Alto
+512,Alerta de frío extremo,Extremo
+513,Inundación,Bajo
+514,Inundación,Moderado
+515,Inundación,Alto
+516,Inundación,Extremo
+517,Alerta de lluvias intensas,Bajo
+518,Alerta de lluvias intensas,Moderado
+519,Alerta de lluvias intensas,Alto
+520,Alerta de lluvias intensas,Extremo
+521,Alerta de deslizamientos de tierra,Bajo
+522,Alerta de deslizamientos de tierra,Moderado
+523,Alerta de deslizamientos de tierra,Alto
+524,Alerta de deslizamientos de tierra,Extremo
+525,Alerta de tsunamis,Bajo
+526,Alerta de tsunamis,Moderado
+527,Alerta de tsunamis,Alto
+528,Alerta de tsunamis,Extremo
+529,Alerta de nevada,Bajo
+530,Alerta de nevada,Moderado
+531,Alerta de nevada,Alto
+532,Alerta de nevada,Extremo
+533,Alerta de sequía,Bajo
+534,Alerta de sequía,Moderado
+535,Alerta de sequía,Alto
+536,Alerta de sequía,Extremo
+537,Alerta de ciclón,Bajo
+538,Alerta de ciclón,Moderado
+539,Alerta de ciclón,Alto
+540,Alerta de ciclón,Extremo
+541,Alerta de niebla densa,Bajo
+542,Alerta de niebla densa,Moderado
+543,Alerta de niebla densa,Alto
+544,Alerta de niebla densa,Extremo
+545,Alerta de tormenta tropical,Bajo
+546,Alerta de tormenta tropical,Moderado
+547,Alerta de tormenta tropical,Alto
+548,Alerta de tormenta tropical,Extremo
+549,Alerta de tormentas severas,Bajo
+550,Alerta de tormentas severas,Moderado
+551,Alerta de tormentas severas,Alto
+552,Alerta de tormentas severas,Extremo
+553,Alerta de ráfagas de viento,Bajo
+554,Alerta de ráfagas de viento,Moderado
+555,Alerta de ráfagas de viento,Alto
+556,Alerta de ráfagas de viento,Extremo
+557,Alerta de polvo o tormentas de arena,Bajo
+558,Alerta de polvo o tormentas de arena,Moderado
+559,Alerta de polvo o tormentas de arena,Alto
+560,Alerta de polvo o tormentas de arena,Extremo
+561,Tornado,Bajo
+562,Tornado,Moderado
+563,Tornado,Alto
+564,Tornado,Extremo
+565,Huracán,Bajo
+566,Huracán,Moderado
+567,Huracán,Alto
+568,Huracán,Extremo
+569,Tormenta eléctrica,Bajo
+570,Tormenta eléctrica,Moderado
+571,Tormenta eléctrica,Alto
+572,Tormenta eléctrica,Extremo
+573,Tormenta de nieve,Bajo
+574,Tormenta de nieve,Moderado
+575,Tormenta de nieve,Alto
+576,Tormenta de nieve,Extremo
+577,Granizo,Bajo
+578,Granizo,Moderado
+579,Granizo,Alto
+580,Granizo,Extremo
+581,Alerta de viento fuerte,Bajo
+582,Alerta de viento fuerte,Moderado
+583,Alerta de viento fuerte,Alto
+584,Alerta de viento fuerte,Extremo
+585,Alerta de calor extremo,Bajo
+586,Alerta de calor extremo,Moderado
+587,Alerta de calor extremo,Alto
+588,Alerta de calor extremo,Extremo
+589,Alerta de frío extremo,Bajo
+590,Alerta de frío extremo,Moderado
+591,Alerta de frío extremo,Alto
+592,Alerta de frío extremo,Extremo
+593,Inundación,Bajo
+594,Inundación,Moderado
+595,Inundación,Alto
+596,Inundación,Extremo
+597,Alerta de lluvias intensas,Bajo
+598,Alerta de lluvias intensas,Moderado
+599,Alerta de lluvias intensas,Alto
+600,Alerta de lluvias intensas,Extremo
+601,Alerta de deslizamientos de tierra,Bajo
+602,Alerta de deslizamientos de tierra,Moderado
+603,Alerta de deslizamientos de tierra,Alto
+604,Alerta de deslizamientos de tierra,Extremo
+605,Alerta de tsunamis,Bajo
+606,Alerta de tsunamis,Moderado
+607,Alerta de tsunamis,Alto
+608,Alerta de tsunamis,Extremo
+609,Alerta de nevada,Bajo
+610,Alerta de nevada,Moderado
+611,Alerta de nevada,Alto
+612,Alerta de nevada,Extremo
+613,Alerta de sequía,Bajo
+614,Alerta de sequía,Moderado
+615,Alerta de sequía,Alto
+616,Alerta de sequía,Extremo
+617,Alerta de ciclón,Bajo
+618,Alerta de ciclón,Moderado
+619,Alerta de ciclón,Alto
+620,Alerta de ciclón,Extremo
+621,Alerta de niebla densa,Bajo
+622,Alerta de niebla densa,Moderado
+623,Alerta de niebla densa,Alto
+624,Alerta de niebla densa,Extremo
+625,Alerta de tormenta tropical,Bajo
+626,Alerta de tormenta tropical,Moderado
+627,Alerta de tormenta tropical,Alto
+628,Alerta de tormenta tropical,Extremo
+629,Alerta de tormentas severas,Bajo
+630,Alerta de tormentas severas,Moderado
+631,Alerta de tormentas severas,Alto
+632,Alerta de tormentas severas,Extremo
+633,Alerta de ráfagas de viento,Bajo
+634,Alerta de ráfagas de viento,Moderado
+635,Alerta de ráfagas de viento,Alto
+636,Alerta de ráfagas de viento,Extremo
+637,Alerta de polvo o tormentas de arena,Bajo
+638,Alerta de polvo o tormentas de arena,Moderado
+639,Alerta de polvo o tormentas de arena,Alto
+640,Alerta de polvo o tormentas de arena,Extremo
+641,Tornado,Bajo
+642,Tornado,Moderado
+643,Tornado,Alto
+644,Tornado,Extremo
+645,Huracán,Bajo
+646,Huracán,Moderado
+647,Huracán,Alto
+648,Huracán,Extremo
+649,Tormenta eléctrica,Bajo
+650,Tormenta eléctrica,Moderado
+651,Tormenta eléctrica,Alto
+652,Tormenta eléctrica,Extremo
+653,Tormenta de nieve,Bajo
+654,Tormenta de nieve,Moderado
+655,Tormenta de nieve,Alto
+656,Tormenta de nieve,Extremo
+657,Granizo,Bajo
+658,Granizo,Moderado
+659,Granizo,Alto
+660,Granizo,Extremo
+661,Alerta de viento fuerte,Bajo
+662,Alerta de viento fuerte,Moderado
+663,Alerta de viento fuerte,Alto
+664,Alerta de viento fuerte,Extremo
+665,Alerta de calor extremo,Bajo
+666,Alerta de calor extremo,Moderado
+667,Alerta de calor extremo,Alto
+668,Alerta de calor extremo,Extremo
+669,Alerta de frío extremo,Bajo
+670,Alerta de frío extremo,Moderado
+671,Alerta de frío extremo,Alto
+672,Alerta de frío extremo,Extremo
+673,Inundación,Bajo
+674,Inundación,Moderado
+675,Inundación,Alto
+676,Inundación,Extremo
+677,Alerta de lluvias intensas,Bajo
+678,Alerta de lluvias intensas,Moderado
+679,Alerta de lluvias intensas,Alto
+680,Alerta de lluvias intensas,Extremo
+681,Alerta de deslizamientos de tierra,Bajo
+682,Alerta de deslizamientos de tierra,Moderado
+683,Alerta de deslizamientos de tierra,Alto
+684,Alerta de deslizamientos de tierra,Extremo
+685,Alerta de tsunamis,Bajo
+686,Alerta de tsunamis,Moderado
+687,Alerta de tsunamis,Alto
+688,Alerta de tsunamis,Extremo
+689,Alerta de nevada,Bajo
+690,Alerta de nevada,Moderado
+691,Alerta de nevada,Alto
+692,Alerta de nevada,Extremo
+693,Alerta de sequía,Bajo
+694,Alerta de sequía,Moderado
+695,Alerta de sequía,Alto
+696,Alerta de sequía,Extremo
+697,Alerta de ciclón,Bajo
+698,Alerta de ciclón,Moderado
+699,Alerta de ciclón,Alto
+700,Alerta de ciclón,Extremo
+701,Alerta de niebla densa,Bajo
+702,Alerta de niebla densa,Moderado
+703,Alerta de niebla densa,Alto
+704,Alerta de niebla densa,Extremo
+705,Alerta de tormenta tropical,Bajo
+706,Alerta de tormenta tropical,Moderado
+707,Alerta de tormenta tropical,Alto
+708,Alerta de tormenta tropical,Extremo
+709,Alerta de tormentas severas,Bajo
+710,Alerta de tormentas severas,Moderado
+711,Alerta de tormentas severas,Alto
+712,Alerta de tormentas severas,Extremo
+713,Alerta de ráfagas de viento,Bajo
+714,Alerta de ráfagas de viento,Moderado
+715,Alerta de ráfagas de viento,Alto
+716,Alerta de ráfagas de viento,Extremo
+717,Alerta de polvo o tormentas de arena,Bajo
+718,Alerta de polvo o tormentas de arena,Moderado
+719,Alerta de polvo o tormentas de arena,Alto
+720,Alerta de polvo o tormentas de arena,Extremo
+721,Tornado,Bajo
+722,Tornado,Moderado
+723,Tornado,Alto
+724,Tornado,Extremo
+725,Huracán,Bajo
+726,Huracán,Moderado
+727,Huracán,Alto
+728,Huracán,Extremo
+729,Tormenta eléctrica,Bajo
+730,Tormenta eléctrica,Moderado
+731,Tormenta eléctrica,Alto
+732,Tormenta eléctrica,Extremo
+733,Tormenta de nieve,Bajo
+734,Tormenta de nieve,Moderado
+735,Tormenta de nieve,Alto
+736,Tormenta de nieve,Extremo
+737,Granizo,Bajo
+738,Granizo,Moderado
+739,Granizo,Alto
+740,Granizo,Extremo
+741,Alerta de viento fuerte,Bajo
+742,Alerta de viento fuerte,Moderado
+743,Alerta de viento fuerte,Alto
+744,Alerta de viento fuerte,Extremo
+745,Alerta de calor extremo,Bajo
+746,Alerta de calor extremo,Moderado
+747,Alerta de calor extremo,Alto
+748,Alerta de calor extremo,Extremo
+749,Alerta de frío extremo,Bajo
+750,Alerta de frío extremo,Moderado
+751,Alerta de frío extremo,Alto
+752,Alerta de frío extremo,Extremo
+753,Inundación,Bajo
+754,Inundación,Moderado
+755,Inundación,Alto
+756,Inundación,Extremo
+757,Alerta de lluvias intensas,Bajo
+758,Alerta de lluvias intensas,Moderado
+759,Alerta de lluvias intensas,Alto
+760,Alerta de lluvias intensas,Extremo
+761,Alerta de deslizamientos de tierra,Bajo
+762,Alerta de deslizamientos de tierra,Moderado
+763,Alerta de deslizamientos de tierra,Alto
+764,Alerta de deslizamientos de tierra,Extremo
+765,Alerta de tsunamis,Bajo
+766,Alerta de tsunamis,Moderado
+767,Alerta de tsunamis,Alto
+768,Alerta de tsunamis,Extremo
+769,Alerta de nevada,Bajo
+770,Alerta de nevada,Moderado
+771,Alerta de nevada,Alto
+772,Alerta de nevada,Extremo
+773,Alerta de sequía,Bajo
+774,Alerta de sequía,Moderado
+775,Alerta de sequía,Alto
+776,Alerta de sequía,Extremo
+777,Alerta de ciclón,Bajo
+778,Alerta de ciclón,Moderado
+779,Alerta de ciclón,Alto
+780,Alerta de ciclón,Extremo
+781,Alerta de niebla densa,Bajo
+782,Alerta de niebla densa,Moderado
+783,Alerta de niebla densa,Alto
+784,Alerta de niebla densa,Extremo
+785,Alerta de tormenta tropical,Bajo
+786,Alerta de tormenta tropical,Moderado
+787,Alerta de tormenta tropical,Alto
+788,Alerta de tormenta tropical,Extremo
+789,Alerta de tormentas severas,Bajo
+790,Alerta de tormentas severas,Moderado
+791,Alerta de tormentas severas,Alto
+792,Alerta de tormentas severas,Extremo
+793,Alerta de ráfagas de viento,Bajo
+794,Alerta de ráfagas de viento,Moderado
+795,Alerta de ráfagas de viento,Alto
+796,Alerta de ráfagas de viento,Extremo
+797,Alerta de polvo o tormentas de arena,Bajo
+798,Alerta de polvo o tormentas de arena,Moderado
+799,Alerta de polvo o tormentas de arena,Alto
+800,Alerta de polvo o tormentas de arena,Extremo
+801,Tornado,Bajo
+802,Tornado,Moderado
+803,Tornado,Alto
+804,Tornado,Extremo
+805,Huracán,Bajo
+806,Huracán,Moderado
+807,Huracán,Alto
+808,Huracán,Extremo
+809,Tormenta eléctrica,Bajo
+810,Tormenta eléctrica,Moderado
+811,Tormenta eléctrica,Alto
+812,Tormenta eléctrica,Extremo
+813,Tormenta de nieve,Bajo
+814,Tormenta de nieve,Moderado
+815,Tormenta de nieve,Alto
+816,Tormenta de nieve,Extremo
+817,Granizo,Bajo
+818,Granizo,Moderado
+819,Granizo,Alto
+820,Granizo,Extremo
+821,Alerta de viento fuerte,Bajo
+822,Alerta de viento fuerte,Moderado
+823,Alerta de viento fuerte,Alto
+824,Alerta de viento fuerte,Extremo
+825,Alerta de calor extremo,Bajo
+826,Alerta de calor extremo,Moderado
+827,Alerta de calor extremo,Alto
+828,Alerta de calor extremo,Extremo
+829,Alerta de frío extremo,Bajo
+830,Alerta de frío extremo,Moderado
+831,Alerta de frío extremo,Alto
+832,Alerta de frío extremo,Extremo
+833,Inundación,Bajo
+834,Inundación,Moderado
+835,Inundación,Alto
+836,Inundación,Extremo
+837,Alerta de lluvias intensas,Bajo
+838,Alerta de lluvias intensas,Moderado
+839,Alerta de lluvias intensas,Alto
+840,Alerta de lluvias intensas,Extremo
+841,Alerta de deslizamientos de tierra,Bajo
+842,Alerta de deslizamientos de tierra,Moderado
+843,Alerta de deslizamientos de tierra,Alto
+844,Alerta de deslizamientos de tierra,Extremo
+845,Alerta de tsunamis,Bajo
+846,Alerta de tsunamis,Moderado
+847,Alerta de tsunamis,Alto
+848,Alerta de tsunamis,Extremo
+849,Alerta de nevada,Bajo
+850,Alerta de nevada,Moderado
+851,Alerta de nevada,Alto
+852,Alerta de nevada,Extremo
+853,Alerta de sequía,Bajo
+854,Alerta de sequía,Moderado
+855,Alerta de sequía,Alto
+856,Alerta de sequía,Extremo
+857,Alerta de ciclón,Bajo
+858,Alerta de ciclón,Moderado
+859,Alerta de ciclón,Alto
+860,Alerta de ciclón,Extremo
+861,Alerta de niebla densa,Bajo
+862,Alerta de niebla densa,Moderado
+863,Alerta de niebla densa,Alto
+864,Alerta de niebla densa,Extremo
+865,Alerta de tormenta tropical,Bajo
+866,Alerta de tormenta tropical,Moderado
+867,Alerta de tormenta tropical,Alto
+868,Alerta de tormenta tropical,Extremo
+869,Alerta de tormentas severas,Bajo
+870,Alerta de tormentas severas,Moderado
+871,Alerta de tormentas severas,Alto
+872,Alerta de tormentas severas,Extremo
+873,Alerta de ráfagas de viento,Bajo
+874,Alerta de ráfagas de viento,Moderado
+875,Alerta de ráfagas de viento,Alto
+876,Alerta de ráfagas de viento,Extremo
+877,Alerta de polvo o tormentas de arena,Bajo
+878,Alerta de polvo o tormentas de arena,Moderado
+879,Alerta de polvo o tormentas de arena,Alto
+880,Alerta de polvo o tormentas de arena,Extremo
+881,Tornado,Bajo
+882,Tornado,Moderado
+883,Tornado,Alto
+884,Tornado,Extremo
+885,Huracán,Bajo
+886,Huracán,Moderado
+887,Huracán,Alto
+888,Huracán,Extremo
+889,Tormenta eléctrica,Bajo
+890,Tormenta eléctrica,Moderado
+891,Tormenta eléctrica,Alto
+892,Tormenta eléctrica,Extremo
+893,Tormenta de nieve,Bajo
+894,Tormenta de nieve,Moderado
+895,Tormenta de nieve,Alto
+896,Tormenta de nieve,Extremo
+897,Granizo,Bajo
+898,Granizo,Moderado
+899,Granizo,Alto
+900,Granizo,Extremo
+901,Alerta de viento fuerte,Bajo
+902,Alerta de viento fuerte,Moderado
+903,Alerta de viento fuerte,Alto
+904,Alerta de viento fuerte,Extremo
+905,Alerta de calor extremo,Bajo
+906,Alerta de calor extremo,Moderado
+907,Alerta de calor extremo,Alto
+908,Alerta de calor extremo,Extremo
+909,Alerta de frío extremo,Bajo
+910,Alerta de frío extremo,Moderado
+911,Alerta de frío extremo,Alto
+912,Alerta de frío extremo,Extremo
+913,Inundación,Bajo
+914,Inundación,Moderado
+915,Inundación,Alto
+916,Inundación,Extremo
+917,Alerta de lluvias intensas,Bajo
+918,Alerta de lluvias intensas,Moderado
+919,Alerta de lluvias intensas,Alto
+920,Alerta de lluvias intensas,Extremo
+921,Alerta de deslizamientos de tierra,Bajo
+922,Alerta de deslizamientos de tierra,Moderado
+923,Alerta de deslizamientos de tierra,Alto
+924,Alerta de deslizamientos de tierra,Extremo
+925,Alerta de tsunamis,Bajo
+926,Alerta de tsunamis,Moderado
+927,Alerta de tsunamis,Alto
+928,Alerta de tsunamis,Extremo
+929,Alerta de nevada,Bajo
+930,Alerta de nevada,Moderado
+931,Alerta de nevada,Alto
+932,Alerta de nevada,Extremo
+933,Alerta de sequía,Bajo
+934,Alerta de sequía,Moderado
+935,Alerta de sequía,Alto
+936,Alerta de sequía,Extremo
+937,Alerta de ciclón,Bajo
+938,Alerta de ciclón,Moderado
+939,Alerta de ciclón,Alto
+940,Alerta de ciclón,Extremo
+941,Alerta de niebla densa,Bajo
+942,Alerta de niebla densa,Moderado
+943,Alerta de niebla densa,Alto
+944,Alerta de niebla densa,Extremo
+945,Alerta de tormenta tropical,Bajo
+946,Alerta de tormenta tropical,Moderado
+947,Alerta de tormenta tropical,Alto
+948,Alerta de tormenta tropical,Extremo
+949,Alerta de tormentas severas,Bajo
+950,Alerta de tormentas severas,Moderado
+951,Alerta de tormentas severas,Alto
+952,Alerta de tormentas severas,Extremo
+953,Alerta de ráfagas de viento,Bajo
+954,Alerta de ráfagas de viento,Moderado
+955,Alerta de ráfagas de viento,Alto
+956,Alerta de ráfagas de viento,Extremo
+957,Alerta de polvo o tormentas de arena,Bajo
+958,Alerta de polvo o tormentas de arena,Moderado
+959,Alerta de polvo o tormentas de arena,Alto
+960,Alerta de polvo o tormentas de arena,Extremo
+961,Tornado,Bajo
+962,Tornado,Moderado
+963,Tornado,Alto
+964,Tornado,Extremo
+965,Huracán,Bajo
+966,Huracán,Moderado
+967,Huracán,Alto
+968,Huracán,Extremo
+969,Tormenta eléctrica,Bajo
+970,Tormenta eléctrica,Moderado
+971,Tormenta eléctrica,Alto
+972,Tormenta eléctrica,Extremo
+973,Tormenta de nieve,Bajo
+974,Tormenta de nieve,Moderado
+975,Tormenta de nieve,Alto
+976,Tormenta de nieve,Extremo
+977,Granizo,Bajo
+978,Granizo,Moderado
+979,Granizo,Alto
+980,Granizo,Extremo
+981,Alerta de viento fuerte,Bajo
+982,Alerta de viento fuerte,Moderado
+983,Alerta de viento fuerte,Alto
+984,Alerta de viento fuerte,Extremo
+985,Alerta de calor extremo,Bajo
+986,Alerta de calor extremo,Moderado
+987,Alerta de calor extremo,Alto
+988,Alerta de calor extremo,Extremo
+989,Alerta de frío extremo,Bajo
+990,Alerta de frío extremo,Moderado
+991,Alerta de frío extremo,Alto
+992,Alerta de frío extremo,Extremo
+993,Inundación,Bajo
+994,Inundación,Moderado
+995,Inundación,Alto
+996,Inundación,Extremo
+997,Alerta de lluvias intensas,Bajo
+998,Alerta de lluvias intensas,Moderado
+999,Alerta de lluvias intensas,Alto
+1000,Alerta de lluvias intensas,Extremo
