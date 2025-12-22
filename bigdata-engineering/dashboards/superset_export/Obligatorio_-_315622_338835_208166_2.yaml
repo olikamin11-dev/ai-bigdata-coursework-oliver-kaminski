@@ -1,0 +1,220 @@
+dashboard_title: Obligatorio - 315622_338835_208166
+description: null
+css: "/* Estilo para las tablas de datos */\r\n.table {\r\n  width: 100%;\r\n  border-collapse:\
+  \ collapse;\r\n}\r\n\r\n/* Filas de la tabla */\r\n.table tr:nth-child(even) {\r\
+  \n  background-color: #f9f9f9; /* Color alterno para filas */\r\n}\r\n\r\n.table\
+  \ tr:nth-child(odd) {\r\n  background-color: #ffffff;\r\n}\r\n\r\n/* Celdas de la\
+  \ tabla */\r\n.table td, .table th {\r\n  padding: 12px;\r\n  text-align: center;\r\
+  \n  border: 1px solid #ddd;\r\n}\r\n\r\n/* T\xEDtulos de la tabla */\r\n.table th\
+  \ {\r\n  background-color: #2980b9; /* Azul para los encabezados */\r\n  color:\
+  \ black;\r\n}\r\nbody{\r\n    background-image: linear-gradient(-90deg, #a1a2a9,\
+  \ #badaff);\r\n}\r\n\r\n\r\n\r\n  .grid-content .dragdroppable-row .dragdroppable-column\
+  \ .dashboard-component-chart-holder {\r\n    \r\n    border-radius:25px;\r\n   \
+  \ box-shadow: 0px 0px 30px #708090;\r\n  }\r\n\r\n"
+slug: null
+certified_by: ''
+certification_details: ''
+published: false
+uuid: 08ad05f5-a6f2-4159-867f-f2ee58c91e67
+position:
+  CHART-explore-10-1:
+    children: []
+    id: CHART-explore-10-1
+    meta:
+      chartId: 10
+      height: 67
+      sliceName: alertas_activas
+      uuid: 0d16405e-5061-4033-a1c8-38273bc937bf
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ANdSP7IXzR
+    type: CHART
+  CHART-explore-6-1:
+    children: []
+    id: CHART-explore-6-1
+    meta:
+      chartId: 6
+      height: 65
+      sliceName: mejores_lugares_surf
+      uuid: adcb62ca-239d-4a51-b009-8a98ff3946ff
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-vA9RfyA6-1
+    type: CHART
+  CHART-explore-7-1:
+    children: []
+    id: CHART-explore-7-1
+    meta:
+      chartId: 7
+      height: 65
+      sliceName: ciudades_mas_alertas
+      uuid: a4675631-65b9-4d06-88a0-50ef7eea1fb7
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-vA9RfyA6-1
+    type: CHART
+  CHART-explore-8-1:
+    children: []
+    id: CHART-explore-8-1
+    meta:
+      chartId: 8
+      height: 65
+      sliceName: max_temp_paises
+      uuid: 7eac12b4-ff1c-4638-aefc-acc2fc645d75
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-vA9RfyA6-1
+    type: CHART
+  CHART-explore-9-1:
+    children: []
+    id: CHART-explore-9-1
+    meta:
+      chartId: 9
+      height: 67
+      sliceName: frec_alertas
+      uuid: 3f5abf5b-3a78-404c-bee4-2d15026cfcb9
+      width: 7
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW--mM7lQyQd
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW--mM7lQyQd
+    - ROW-vA9RfyA6-1
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: Obligatorio - 315622_338835_208166
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW--mM7lQyQd:
+    children:
+    - CHART-explore-9-1
+    - CHART-explore-10-1
+    id: ROW--mM7lQyQd
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-vA9RfyA6-1:
+    children:
+    - CHART-explore-6-1
+    - CHART-explore-8-1
+    - CHART-explore-7-1
+    id: ROW-vA9RfyA6-1
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  color_scheme: googleCategory20c
+  label_colors: {}
+  shared_label_colors: {}
+  color_scheme_domain:
+  - '#3366cc'
+  - '#dc3912'
+  - '#ff9900'
+  - '#109618'
+  - '#990099'
+  - '#0099c6'
+  - '#dd4477'
+  - '#66aa00'
+  - '#b82e2e'
+  - '#316395'
+  - '#994499'
+  - '#22aa99'
+  - '#aaaa11'
+  - '#6633cc'
+  - '#e67300'
+  - '#8b0707'
+  - '#651067'
+  - '#329262'
+  - '#5574a6'
+  - '#3b3eac'
+  timed_refresh_immune_slices: []
+  expanded_slices: {}
+  refresh_frequency: 0
+  cross_filters_enabled: true
+  chart_configuration:
+    '6':
+      id: 6
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 7
+        - 8
+        - 9
+        - 10
+    '7':
+      id: 7
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 6
+        - 8
+        - 9
+        - 10
+    '8':
+      id: 8
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 6
+        - 7
+        - 9
+        - 10
+    '9':
+      id: 9
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 6
+        - 7
+        - 8
+        - 10
+    '10':
+      id: 10
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 6
+        - 7
+        - 8
+        - 9
+  global_chart_configuration:
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    chartsInScope:
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+  default_filters: '{}'
+version: 1.0.0

@@ -1,0 +1,13 @@
+database_name: Apache Hive
+sqlalchemy_uri: hive://ec2-user@localhost:10000
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: false
+allow_cvas: false
+allow_dml: false
+allow_file_upload: false
+extra:
+  allows_virtual_table_explore: true
+uuid: df27e583-ff44-4b7b-9e8a-5a68dc173a13
+version: 1.0.0

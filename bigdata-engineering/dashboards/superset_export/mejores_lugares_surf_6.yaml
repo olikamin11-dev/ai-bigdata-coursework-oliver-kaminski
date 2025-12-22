@@ -1,0 +1,104 @@
+slice_name: mejores_lugares_surf
+description: null
+certified_by: null
+certification_details: null
+viz_type: radar
+params:
+  datasource: 4__table
+  viz_type: radar
+  groupby:
+  - pais
+  - ciudad
+  metrics:
+  - expressionType: SIMPLE
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: altura_oleaje_marea
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 25
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: FLOAT
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    aggregate: SUM
+    sqlExpression: null
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: SUM(altura_oleaje_marea)
+    optionName: metric_krv5wnxs4ei_uy80nyviep
+  - expressionType: SIMPLE
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: periodo_oleaje_marea
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 26
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: FLOAT
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    aggregate: SUM
+    sqlExpression: null
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: SUM(periodo_oleaje_marea)
+    optionName: metric_icjdvzq486h_dperhb6d25
+  - expressionType: SIMPLE
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: intensidad_viento
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 27
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: INT
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    aggregate: SUM
+    sqlExpression: null
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: SUM(intensidad_viento)
+    optionName: metric_6hwcuuikztj_sks3aty57bi
+  adhoc_filters: []
+  row_limit: 10
+  color_scheme: supersetColors
+  show_legend: true
+  legendType: plain
+  legendOrientation: bottom
+  show_labels: true
+  label_type: value
+  label_position: left
+  number_format: ~g
+  date_format: smart_date
+  is_circle: false
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":4,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["pais","ciudad"],"metrics":[{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"altura_oleaje_marea","description":null,"expression":null,"filterable":true,"groupby":true,"id":25,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(altura_oleaje_marea)","optionName":"metric_krv5wnxs4ei_uy80nyviep"},{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"periodo_oleaje_marea","description":null,"expression":null,"filterable":true,"groupby":true,"id":26,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(periodo_oleaje_marea)","optionName":"metric_icjdvzq486h_dperhb6d25"},{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"intensidad_viento","description":null,"expression":null,"filterable":true,"groupby":true,"id":27,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"INT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(intensidad_viento)","optionName":"metric_6hwcuuikztj_sks3aty57bi"}],"orderby":[[{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"altura_oleaje_marea","description":null,"expression":null,"filterable":true,"groupby":true,"id":25,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(altura_oleaje_marea)","optionName":"metric_krv5wnxs4ei_uy80nyviep"},false]],"annotation_layers":[],"row_limit":10,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"4__table","viz_type":"radar","groupby":["pais","ciudad"],"metrics":[{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"altura_oleaje_marea","description":null,"expression":null,"filterable":true,"groupby":true,"id":25,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(altura_oleaje_marea)","optionName":"metric_krv5wnxs4ei_uy80nyviep"},{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"periodo_oleaje_marea","description":null,"expression":null,"filterable":true,"groupby":true,"id":26,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(periodo_oleaje_marea)","optionName":"metric_icjdvzq486h_dperhb6d25"},{"expressionType":"SIMPLE","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"intensidad_viento","description":null,"expression":null,"filterable":true,"groupby":true,"id":27,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"INT","type_generic":0,"verbose_name":null,"warning_markdown":null},"aggregate":"SUM","sqlExpression":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"SUM(intensidad_viento)","optionName":"metric_6hwcuuikztj_sks3aty57bi"}],"adhoc_filters":[],"row_limit":10,"color_scheme":"supersetColors","show_legend":true,"legendType":"plain","legendOrientation":"bottom","show_labels":true,"label_type":"value","label_position":"left","number_format":"~g","date_format":"smart_date","is_circle":false,"extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: adcb62ca-239d-4a51-b009-8a98ff3946ff
+version: 1.0.0
+dataset_uuid: 8a0cd720-74ad-4e66-9d00-987540cdaff1

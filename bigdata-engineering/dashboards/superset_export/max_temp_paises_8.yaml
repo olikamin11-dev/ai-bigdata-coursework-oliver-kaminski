@@ -1,0 +1,50 @@
+slice_name: max_temp_paises
+description: null
+certified_by: null
+certification_details: null
+viz_type: table
+params:
+  datasource: 5__table
+  viz_type: table
+  query_mode: raw
+  groupby: []
+  time_grain_sqla: P1D
+  temporal_columns_lookup:
+    fecha: true
+  all_columns:
+  - ciudad
+  - pais
+  - temperatura_maxima
+  - fecha
+  percent_metrics: []
+  adhoc_filters:
+  - clause: WHERE
+    subject: fecha
+    operator: TEMPORAL_RANGE
+    comparator: No filter
+    expressionType: SIMPLE
+  order_by_cols: []
+  row_limit: 10
+  server_page_length: 10
+  order_desc: true
+  table_timestamp_format: smart_date
+  page_length: 10
+  include_search: false
+  show_cell_bars: true
+  align_pn: true
+  color_pn: true
+  allow_rearrange_columns: false
+  conditional_formatting:
+  - column: temperatura_maxima
+    colorScheme: '#ACE1C4'
+    operator: None
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":5,"type":"table"},"force":false,"queries":[{"filters":[{"col":"fecha","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"time_grain_sqla":"P1D","having":"","where":""},"applied_time_extras":{},"columns":["ciudad","pais","temperatura_maxima","fecha"],"orderby":[],"annotation_layers":[],"row_limit":10,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"post_processing":[]}],"form_data":{"datasource":"5__table","viz_type":"table","query_mode":"raw","groupby":[],"time_grain_sqla":"P1D","temporal_columns_lookup":{"fecha":true},"all_columns":["ciudad","pais","temperatura_maxima","fecha"],"percent_metrics":[],"adhoc_filters":[{"clause":"WHERE","subject":"fecha","operator":"TEMPORAL_RANGE","comparator":"No
+  filter","expressionType":"SIMPLE"}],"order_by_cols":[],"row_limit":10,"server_page_length":10,"order_desc":true,"table_timestamp_format":"smart_date","page_length":10,"include_search":false,"show_cell_bars":true,"align_pn":true,"color_pn":true,"allow_rearrange_columns":false,"conditional_formatting":[{"column":"temperatura_maxima","colorScheme":"#ACE1C4","operator":"None"}],"extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full","include_time":false},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 7eac12b4-ff1c-4638-aefc-acc2fc645d75
+version: 1.0.0
+dataset_uuid: e94c0b60-443f-4551-8b15-69c6d2526aa3

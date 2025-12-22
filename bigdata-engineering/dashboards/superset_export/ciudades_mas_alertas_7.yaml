@@ -1,0 +1,51 @@
+slice_name: ciudades_mas_alertas
+description: null
+certified_by: null
+certification_details: null
+viz_type: table
+params:
+  datasource: 2__table
+  viz_type: table
+  slice_id: 7
+  query_mode: raw
+  groupby: []
+  temporal_columns_lookup: {}
+  all_columns:
+  - pais
+  - ciudad
+  - latitud
+  - longitud
+  - tipo_alerta
+  - ano
+  - cantidad_alertas
+  percent_metrics: []
+  adhoc_filters: []
+  order_by_cols: []
+  row_limit: 50
+  table_timestamp_format: smart_date
+  page_length: 10
+  include_search: true
+  show_cell_bars: true
+  align_pn: true
+  color_pn: true
+  allow_rearrange_columns: false
+  column_config:
+    latitud:
+      alignPositiveNegative: false
+      horizontalAlign: right
+      showCellBars: true
+    longitud:
+      horizontalAlign: right
+  conditional_formatting:
+  - colorScheme: '#FDE380'
+    column: cantidad_alertas
+    operator: '>'
+    targetValue: 2
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":2,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["pais","ciudad","latitud","longitud","tipo_alerta","ano","cantidad_alertas"],"orderby":[],"annotation_layers":[],"row_limit":50,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"post_processing":[]}],"form_data":{"datasource":"2__table","viz_type":"table","slice_id":7,"query_mode":"raw","groupby":[],"temporal_columns_lookup":{},"all_columns":["pais","ciudad","latitud","longitud","tipo_alerta","ano","cantidad_alertas"],"percent_metrics":[],"adhoc_filters":[],"order_by_cols":[],"row_limit":50,"table_timestamp_format":"smart_date","page_length":10,"include_search":true,"show_cell_bars":true,"align_pn":true,"color_pn":true,"allow_rearrange_columns":false,"column_config":{"latitud":{"alignPositiveNegative":false,"horizontalAlign":"right","showCellBars":true},"longitud":{"horizontalAlign":"right"}},"conditional_formatting":[{"colorScheme":"#FDE380","column":"cantidad_alertas","operator":">","targetValue":2}],"extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full","include_time":false},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: a4675631-65b9-4d06-88a0-50ef7eea1fb7
+version: 1.0.0
+dataset_uuid: 22c00889-6b39-4d0e-8e9e-58f5ca6ba4e8
