@@ -58,6 +58,24 @@ possible number of individuals living in poverty are correctly identified,
 minimizing false negatives.
 
 ---
+## Experimental Scope
+
+In addition to the final model comparison, several exploratory experiments
+were conducted to assess the behavior of different learning strategies:
+
+- Baseline comparison between **Naive Bayes** and **Logistic Regression**
+- Evaluation of ensemble methods:
+  - Decision Tree
+  - Bagging
+  - Random Forest
+  - Boosting
+- Analysis of **oversampling and undersampling** techniques to address class imbalance
+- Application of **stacking** strategies on both baseline and ensemble models
+
+These experiments provided valuable insights into model stability and
+generalization. However, only the most representative results are presented
+below to maintain clarity and focus on the final model selection.
+
 
 ## Results and Model Comparison
 
@@ -71,18 +89,13 @@ minimizing false negatives.
 - **Bagging and Boosting** models exhibited a significant drop in recall between
   training and validation/test sets, indicating overfitting.
 
-### Overall model comparison
-![Model comparison](assets/model_comparison.png)
-
-Although **Boosting** achieved the highest F1-score, its low recall on unseen
-data made it unsuitable for this problem.
 
 ---
 
 ## Selected Model Performance
 
-### Confusion Matrix – Random Forest
-![Confusion Matrix RF](assets/confusion_matrix_rf.png)
+### Random Forest - Stacking vs Oversampling vs Undersampling
+![Recall performance RF](assets/recall_rf.png)
 
 The **Random Forest** model was selected as the final model due to its balance
 between recall performance and generalization.
