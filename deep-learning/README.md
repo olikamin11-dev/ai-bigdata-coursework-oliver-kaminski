@@ -53,7 +53,7 @@ Key results reported in the notebook:
 ![Training curve](assets/training_curve.jpg)
 
 ### Model performance
-![Confusion matrix](assets/confusion_matrix.jpg)
+![Confusion matrix](assets/Confusion_matrix.jpg)
 
 ---
 
