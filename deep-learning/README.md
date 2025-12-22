@@ -50,10 +50,10 @@ Key results reported in the notebook:
 - Performance is affected by **class imbalance**, with weaker results on minority classes despite oversampling.
 
 ### Training dynamics
-![Training curve](assets/training_curve.png)
+![Training curve](assets/training_curve.jpg)
 
 ### Model performance
-![Confusion matrix](assets/confusion_matrix.png)
+![Confusion matrix](assets/confusion_matrix.jpg)
 
 ---
 
