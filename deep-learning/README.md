@@ -55,9 +55,6 @@ Key results reported in the notebook:
 ### Model performance
 ![Confusion matrix](assets/confusion_matrix.png)
 
-### ROC curve (optional)
-![ROC curve](assets/roc_curve.png)
-
 ---
 
 ## How to Run
