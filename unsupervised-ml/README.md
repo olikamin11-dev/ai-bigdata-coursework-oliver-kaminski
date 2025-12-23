@@ -62,7 +62,7 @@ were jointly analyzed to evaluate cluster cohesion and separation.
 The following projection shows the clusters obtained using **K-Means** after
 dimensionality reduction.
 
-![K-Means clusters](assets/k means clusters.png)
+![K-Means clusters](assets/k_means_clusters.png)
 
 ---
 
@@ -70,7 +70,7 @@ dimensionality reduction.
 A similar analysis was performed using **K-Medoids**, allowing comparison of
 cluster robustness and structure.
 
-![K-Medoids clusters](assets/cluster K medoids.png)
+![K-Medoids clusters](assets/cluster_K_medoids.png)
 
 ---
 
