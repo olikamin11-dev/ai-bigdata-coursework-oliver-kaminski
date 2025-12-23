@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning – Order Segmentation (Delivery Hero - PedidosYa )
+# Unsupervised Machine Learning – Order Segmentation (PedidosYa)
 
 ## Problem
 The objective of this project is to identify **different types of purchase orders**
@@ -32,44 +32,58 @@ Due to confidentiality constraints, the dataset is not included in this reposito
 - Data preprocessing and feature engineering
 - Feature scaling and normalization
 - Clustering using **K-Means** and **K-Medoids**
-- Model selection using internal metrics
+- Model selection using internal validation metrics
 - Dimensionality reduction for visualization
 - Qualitative interpretation of clusters
 
 ---
 
-## Model Evaluation
-Models were evaluated using **internal clustering metrics**:
+## Model Selection
 
-- **Inertia**
-- **Silhouette score**
+### Elbow Method
+The **elbow method** was used to identify a suitable number of clusters by
+analyzing the inertia as a function of *k*.
 
-The following figure shows the evaluation of different numbers of clusters:
+![Elbow method](assets/silhoutte_.png)
 
-![Silhouette and inertia](assets/silhouette_inertia.png)
+---
+
+### Silhouette and Inertia Analysis
+To complement the elbow method, **silhouette score** and **inertia**
+were jointly analyzed to evaluate cluster cohesion and separation.
+
+![Silhouette and inertia](assets/silhoutte_inertia.png)
 
 ---
 
 ## Cluster Visualization
-Dimensionality reduction techniques were used to visualize cluster separation:
 
-![Cluster visualization](assets/clustering_visualization.png)
+### K-Means Clusters
+The following projection shows the clusters obtained using **K-Means** after
+dimensionality reduction.
 
-These projections confirm meaningful separation between different order types.
+![K-Means clusters](assets/k means clusters.png)
+
+---
+
+### K-Medoids Clusters
+A similar analysis was performed using **K-Medoids**, allowing comparison of
+cluster robustness and structure.
+
+![K-Medoids clusters](assets/cluster K medoids.png)
 
 ---
 
 ## Cluster Interpretation and Results
 
-### Cluster Profiles
-The following figure summarizes the main characteristics of each cluster:
+Based on the clustering results, three main order archetypes were identified:
 
-![Cluster profiles](assets/cluster_profiles.png)
-
-### Identified Order Types
 - **Cluster 0 – Replenishment orders:** small, low-cost, frequent purchases
 - **Cluster 1 – Large purchases:** high-volume, high-cost grocery orders
 - **Cluster 2 – Habitual orders:** regular orders from highly active users
+
+These clusters capture **latent behavioral patterns** that are not directly
+observable through individual features.
 
 ---
 
@@ -84,6 +98,7 @@ The identified order archetypes can support:
 
 ## How to Run
 1. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    
 2. Open and run:
